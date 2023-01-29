@@ -42,6 +42,8 @@ git commit
 git push
 ```
 
+![](https://i.imgur.com/xdoXJxP.jpg)
+
 ### Squash
 
 https://stackoverflow.com/questions/5189560/how-do-i-squash-my-last-n-commits-together
