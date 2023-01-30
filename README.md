@@ -50,6 +50,20 @@ https://stackoverflow.com/questions/5189560/how-do-i-squash-my-last-n-commits-to
 
 ---
 
+## Others
+
+### gh-pages
+- [Deployment | Create React App](https://create-react-app.dev/docs/deployment/#github-pages)
+- [Deploy an Nx React App to GitHub Pages](https://emilyxiong.medium.com/deploy-a-nx-react-app-to-github-pages-a83de7551ec0)
+
+### GitHub Profile README
+- [awesome-github-profile-readme](https://github.com/abhisheknaiidu/awesome-github-profile-readme)
+- [GitHub Readme Stats](https://github.com/anuraghazra/github-readme-stats)
+- [GitHub Profile README Generator](https://github.com/rahuldkjain/github-profile-readme-generator)
+- [Dev Metrics in Readme with added feature flags 🎌](https://github.com/marketplace/actions/profile-readme-development-stats)
+
+---
+
 ## Reference
 
 * [連猴子都能懂的 Git 入門指南](https://backlog.com/git-tutorial/tw/intro/intro1_1.html)
