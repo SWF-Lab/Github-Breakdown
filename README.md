@@ -48,6 +48,62 @@ git push
 
 https://stackoverflow.com/questions/5189560/how-do-i-squash-my-last-n-commits-together
 
+### gitignore
+
+```
+# Logs
+logs
+*.log
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+lerna-debug.log*
+.pnpm-debug.log*
+
+# IDE
+.vscode
+.idea
+
+
+# Dependency directories
+node_modules/
+
+# TypeScript cache
+*.tsbuildinfo
+
+# Output of 'npm pack'
+*.tgz
+
+# Optional eslint cache
+.eslintcache
+
+# Generate output
+dist
+build
+cache
+
+# vercel
+.vercel
+
+# typescript
+*.tsbuildinfo
+next-env.d.ts
+
+# Optional npm cache directory
+.npm
+.DS_Store
+
+
+# Auto Generated PWA files
+**/public/sw.js
+**/public/workbox-*.js
+**/public/worker-*.js
+**/public/sw.js.map
+**/public/workbox-*.js.map
+**/public/worker-*.js.map
+```
+- [Gitignore not working](https://stackoverflow.com/questions/25436312/gitignore-not-working)
+
 ---
 
 ## Others
