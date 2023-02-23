@@ -1,20 +1,24 @@
-title: "[Problem] "
-labels: ["General Problems"]
+title: "[Question] "
+labels: ["General Question"]
 body:
   - type: markdown
     attributes:
       value: |
-        Thanks for taking the time to start a new discussion!
+        Thanks for taking the time to start a new discussion! 
+        Hope you can solve the problem and improve the skills by discussing with others!
   - type: textarea
     id: newQuestion
     attributes:
       label: Question
-      description: "If there's any problem or suggestion, please let us know!"
+      description: "If there's any trouble solving the problem, please feel free to ask!"
       value: |
         - Problem Number: ...
         - Problem Statement: ...
         - Problem Target: ...
-        - 
+        ** Describe the bug or your question: **
+        
+        ** Paste your judging results: **
+        
       render: bash
     validations:
       required: true
