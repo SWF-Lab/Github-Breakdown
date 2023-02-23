@@ -36,7 +36,7 @@ body:
       label: suggestion
       description: "Please feel free to give us any suggestion!"
       value: |
-        - 
+        
         
       render: bash
     validations:
