@@ -1,0 +1,20 @@
+title: "[Suggestion] "
+labels: ["General suggestion"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Thanks for taking the time to start a new discussion and giving us suggestions!
+        However, please follow the rules:
+        ❗️ If you have any question for solving the problem, please head to **Ask for Help** category. ❗️
+        ❗️ If you have any suggestion or idea for solutions of problems, please head to **Solutions** category. ❗️
+  - type: textarea
+    id: newIdea
+    attributes:
+      label: Idea
+      description: "Please feel free to give us any suggestion!"
+        - 
+        
+      render: bash
+    validations:
+      required: true
