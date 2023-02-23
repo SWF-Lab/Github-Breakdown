@@ -6,6 +6,9 @@ body:
       value: |
         Thanks for taking the time to start a new discussion! 
         Hope you can solve the problem and improve the skills by discussing with others!
+        However, please follow the rules:
+        ❗️ Please do not directly ask for any solutions. ❗️
+        ❗️ If you have any suggestion or ideas for the problem, please head to **New Idea** category. ❗️
   - type: textarea
     id: newQuestion
     attributes:
@@ -13,8 +16,8 @@ body:
       description: "If there's any trouble solving the problem, please feel free to ask!"
       value: |
         - Problem Number: ...
-        - Problem Statement: ...
-        - Problem Target: ...
+        - Problem Statement and Targets: ...
+        
         - Describe the bug or your question: ...
         
         - Paste your judging results: ...
