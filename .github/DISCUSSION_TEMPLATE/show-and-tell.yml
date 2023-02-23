@@ -8,7 +8,8 @@ body:
         Hope you can solve the problem and improve the skills by discussing with others!
         However, please follow the rules:
         ❗️ Please do not directly ask for any solutions. ❗️
-        ❗️ If you have any suggestion or ideas for the problem, please head to **New Idea** category. ❗️
+        ❗️ If you have any ideas for the solution of the problem, please head to **New Idea** category. ❗️
+        ❗️ If you have any suggestion for us, please head to **Suggestion** category. ❗️
   - type: textarea
     id: newQuestion
     attributes:
