@@ -9,9 +9,9 @@ body:
         ❗️ If you have any question for solving the problem, please head to **Ask for Help** category. ❗️
         ❗️ If you have any suggestion or idea for solutions of problems, please head to **Solutions** category. ❗️
   - type: textarea
-    id: newIdea
+    id: newSuggestion
     attributes:
-      label: Idea
+      label: suggestion
       description: "Please feel free to give us any suggestion!"
         - 
         
