@@ -33,7 +33,7 @@ body:
   - type: textarea
     id: newSuggestion
     attributes:
-      label: suggest
+      label: suggestion
       description: "If there's any trouble solving the problem, please feel free to ask!"
       value: |
         - Problem Number: ...
