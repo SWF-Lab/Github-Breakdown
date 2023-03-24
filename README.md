@@ -1,4 +1,5 @@
 # Git Workflow
+![1677113505643](https://user-images.githubusercontent.com/81423845/227505046-18b89fe2-562c-4d57-aff0-d46092c73d6e.jpg)
 
 1. clone repo 然後確認 compile, setup 都沒有問題
 1. 在 repo 裡面建立一個 branch，要在 local 從 master checkout 一個 branch 出去
