@@ -26,6 +26,7 @@ git push
 * 現行的開發團隊基本上都會透過[這份文件](https://docs.github.com/en/get-started/quickstart/github-flow)來建置 Work Flow還有其他額外功能 audit branch & releasing 
 * flowPR 會跑 CI build，流程可以參考[這個檔案](https://github.com/consenlabs/tokenlon-contracts/blob/master/.github/workflows/node.js.yml)，推上去之前可以先在 local 跑一些基本的做驗證
 
+![S__79732739](https://github.com/SWF-Lab/Github-Breakdown/assets/81423845/b972085e-bcbb-4659-94bf-f1156e2daa3f)
 
 ## PR Problem
 
